@@ -1,0 +1,18 @@
+body
+{
+    background-color: rgb(0, 255, 0);
+}
+#score
+{
+    font-size:20px;
+    float: right;
+}
+#sketch_to_be_drawn
+{
+ color: blue;
+}
+#timer
+{
+    font-size:20px;
+    float: left;
+}
